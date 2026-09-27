@@ -1,4 +1,4 @@
-# SeedCount Web v1.2
+# SeedCount Web 
 
 上传培养皿照片 → 自动定位计数区域 → 本机 AI 逐粒计数。**照片不出设备，断网也能用。**
 
